@@ -8,4 +8,4 @@
 * I know different command in git
 * I can made this file and put image into it
 
-![](file:///Users/mr.d/Desktop/Courser/img:/i.webp)
+![](https://raw.githubusercontent.com/Andreas1888/Courser/main/img%3A/i.webp)
