@@ -6,5 +6,4 @@
 * I know different command in git
 * I can made this file and put image into it
 
-![]
-(i.webp)
+![](file:///Users/mr.d/Coursera/img:/i.webp)
